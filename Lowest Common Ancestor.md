@@ -17,9 +17,9 @@ Assume two nodes are exist in tree.
 
 3    7
 
-     / \
+   / \
 
-    5    6
+ 5    6
 
 LCA(3, 5) = 4
 
