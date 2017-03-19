@@ -9,24 +9,6 @@ Notice
 
 Assume two nodes are exist in tree.
 
-**Example**
-
-   4
-
-  / \
-
-3    7
-
-   / \
-
- 5    6
-
-LCA(3, 5) = 4
-
-LCA(5, 6) = 7
-
-LCA(6, 7) = 7
-
 >>>
 
 ## Analysis
